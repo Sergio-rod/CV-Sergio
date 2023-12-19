@@ -1,0 +1,5 @@
+# ignore latex auto generate files
+*.oux
+*.aux
+*.log
+*.synctex.gz
